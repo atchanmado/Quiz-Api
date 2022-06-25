@@ -1,0 +1,32 @@
+html {
+  background-color: rgb(233, 167, 68);
+  font-size: 20px;
+  font-family: "Courier New", Courier, monospace, sans-serif;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+#difficulty {
+  text-align: center;
+  font-size: 25px;
+}
+
+.marge {
+  margin: 10px 30px;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.soulign {
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+#choix {
+  margin-top: 70px;
+}
